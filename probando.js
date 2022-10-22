@@ -4,4 +4,6 @@ console.log(nombre)
 
 console.log("hola mundo")
 
+console.log ("Hi")
+
 
